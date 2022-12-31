@@ -23,9 +23,11 @@ I created a student marks prediction model with the help of following few steps 
 6. Model Building
 7. Deploy Model
 
-At the end after building our model we will test that what will be predicted score if a student study for ? hrs in a day.
 
 - This Web App is deployed to cloud (AWS EC2) where it can be accesssed. Running last command above will prompt that server is running on port 8000 i.e. http://ec2-13-234-136-185.ap-south-1.compute.amazonaws.com:8000/ Now just load your cloud url in browser (for me it was ), website will open but it will not work unless I run this app's server in virtual OS Ubuntu.
+
+At the end after building our model we will test that what will be predicted score if a student study for ? hrs in a day.
+
 1.
 ![first_page](https://user-images.githubusercontent.com/48941870/210128773-2351fe1c-233d-4476-8f58-bc721ec8d81e.png)
 
